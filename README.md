@@ -26,18 +26,51 @@ El proyecto sigue un flujo de desarrollo controlado: la versión de escritorio e
 - Ajustes globales de interfaz, táctil, orden de preguntas, temporizador y visualización
 - Panel Android con exportación nativa
 
-## Capturas
+## 🖼️ Capturas
 
-![Pantalla principal](screenshots/01-principal.png)
-![Modo test](screenshots/02-test.png)
-![Estadísticas](screenshots/03-estadisticas.png)
-![Editor tests](screenshots/04-editor.png)
-![Gestor PDFs](screenshots/05-material_pdf.png)
-![Biblioteca](screenshots/06-biblioteca.png)
-![Visor PDF](screenshots/07-visor_pdf.png)
-![Gestor Oposición](screenshots/08-oposicion.png)
-![App - Versión Android](screenshots/09-android_app.png)
-![Modo test - Versión Android](screenshots/10-android_test.png)
+### Escritorio
+
+**Pantalla principal** — perfiles de oposición y acceso rápido
+
+<img src="screenshots/01-principal.png" width="800">
+
+**Modo test** — realización de tests y supuestos prácticos
+
+<img src="screenshots/02-test.png" width="800">
+
+**Estadísticas** — progreso, preguntas falladas y favoritas
+
+<img src="screenshots/03-estadisticas.png" width="800">
+
+**Editor de tests** — creación y edición de preguntas
+
+<img src="screenshots/04-editor.png" width="800">
+
+**Gestor de material** — asociación de PDFs por tema o bloque
+
+<img src="screenshots/05-material_pdf.png" width="800">
+
+**Biblioteca** — documentación de la oposición
+
+<img src="screenshots/06-biblioteca.png" width="800">
+
+**Visor PDF** — lectura integrada del temario
+
+<img src="screenshots/07-visor_pdf.png" width="800">
+
+**Gestor de oposiciones** — perfiles independientes con progreso separado
+
+<img src="screenshots/08-oposicion.png" width="800">
+
+### Android
+
+**Interfaz adaptada** a móvil y tablet
+
+<img src="screenshots/09-android_app.png" width="350">
+
+**Modo test** con controles táctiles
+
+<img src="screenshots/10-android_test.png" width="350">
 
 ## Arquitectura (resumen)
 
